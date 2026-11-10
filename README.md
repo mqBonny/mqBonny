@@ -67,9 +67,8 @@ mindset: "Learn. Build. Innovate."
 
 <!-- Add your real projects below -->
 
-- 🔹 **Project 01:** [Project Name](PROJECT_LINK) — Short description.
-- 🔹 **Project 02:** [Project Name](PROJECT_LINK) — Short description.
-- 🔹 **Project 03:** [Project Name](PROJECT_LINK) — Short description.
+- 🔹 **Project 01:** .................
+
 
 ---
 
@@ -89,7 +88,7 @@ mindset: "Learn. Build. Innovate."
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/mqBonny">
     <img src="https://img.shields.io/badge/GitHub-09001A?style=for-the-badge&logo=github&logoColor=00F7FF" />
   </a>
 </p>
